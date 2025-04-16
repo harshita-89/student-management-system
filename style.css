@@ -1,0 +1,174 @@
+*
+{
+    padding: 0;
+    margin:0;
+}
+
+nav
+{
+    position: fixed;
+    background-color: skyblue;
+    height: 70px;
+    width:100%;
+    z-index:1;
+}
+
+.logo
+{
+    font-size: 25px;
+    position: relative;
+    left: 3%;
+    color: white;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+
+ul li
+{
+    display:inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.main_img
+{
+    height: 500px;
+    width:100%;
+}
+
+.section1
+{
+    padding-top:70px;
+}
+
+.img_text
+{
+    position:absolute;
+    top: 20%;
+    left: 30%;
+    color:white;
+    margin-top: 33px;
+    background-color:rgb(40, 40, 150);
+    padding-right:20px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+
+.image1
+{
+    width: 100%;
+    height: 250px;
+}
+
+p.paragraph{
+    font-size: 18px !important;
+
+}
+
+.container
+{
+    padding-top: 20px;
+
+}
+
+.teacher-intro{
+    width: 95%!important;
+    height: 200px !important;
+}
+.paragraph2{
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+.label_text{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* admission form */
+
+  #form-container{
+    max-width:430px;
+    margin:30px auto;
+    padding:20px;
+  }
+  .form-wrap{
+  background:#ffff;
+  padding:15px 25px;
+    color:#333;
+    /* border-top:4px solid #49c1a2; */
+    border-radius: 5px;
+  }
+  .form-wrap h1{
+    text-align:center;
+  } 
+  .form-wrap .form-group{
+  margin-top:15px
+  }
+    .form-wrap .form-group label{
+  display: block;
+   color:#666;
+  }
+
+  .form-wrap .form-group input{
+    width: 100%;
+    padding:10px;
+    border:#ddd;
+    border: #ddd solid 3px;
+    border-radius: 5px;
+    
+  }
+  textarea{
+    width: 100%;
+  }
+  .form-wrap button{
+    display: block;
+    width:100%;
+    padding:10px;
+    margin-top: 20px;
+    background-color: #49c1a2;
+    color:#ffff;
+    border: 1px solid #49c1a2;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .form-wrap button:hover{
+    background-color: #37a08e; 
+    transition: 1s;
+  }
+
+
+  /* footer */
+footer{
+  background-color: #186c57;
+  height: 70px;
+  width:100%;
+}
+.footer_text{
+  text-align: center;
+  color: white;
+  top: 20%;
+  position: relative;
+
+}
+/* login page*/
+.body_bg{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:100%;
+}
