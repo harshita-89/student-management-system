@@ -6,7 +6,7 @@
     <title>login page</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body background="classroom.jpg" class="body_bg" style=" background-repeat: no-repeat; background-attachment: fixed; background-size:100%">
+<body background="image\classroom.jpg" class="body_bg" style=" background-repeat: no-repeat; background-attachment: fixed; background-size:100%">
 <div id="form-container"  style="margin:170px auto">
             <div class="form-wrap">
                 <h1>Login form</h1>

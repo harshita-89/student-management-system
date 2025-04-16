@@ -54,12 +54,12 @@
        </nav> 
        <div class="section1">
         <label class="img_text">We Teach Children With Care</label>
-        <img class="main_img" src="classroom.jpg" alt="ClassroomImage">
+        <img class="main_img" src="image\classroom.jpg" alt="ClassroomImage">
        </div>
        <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <img class="image1" src="school2.jpg" alt="image" style="margin-top: 50px;">
+                <img class="image1" src="image\school2.jpg" alt="image" style="margin-top: 50px;">
             </div>
             <div class="col-md-8" id="info">
                 <h1>WELCOME TO OUR KINDERGATEN</h1>
@@ -114,21 +114,21 @@
             <div class="row">
 
                 <div class="col-md-4">
-                    <img class="teacher-intro" src="preschooler1.jpg" alt="teacher">   <!-- style="width: 90%; height: 250px;" -->
+                    <img class="teacher-intro" src="image\preschooler1.jpg" alt="teacher">   <!-- style="width: 90%; height: 250px;" -->
                     <p class="paragraph2">
                         Social Skills
                     </p>
                 </div>
 
                 <div class="col-md-4">
-                    <img class="teacher-intro" style="width: 90%; height: 250px;" src="preschooler2.jpg" alt="teacher">
+                    <img class="teacher-intro" style="width: 90%; height: 250px;" src="image\preschooler2.jpg" alt="teacher">
                     <p class="paragraph2">
                         Fine Motor Skills
                     </p>
                 </div>
 
                 <div class="col-md-4">
-                    <img class="teacher-intro" style="width: 90%; height: 250px;" src="preschooler3.jpg" alt="teacher">
+                    <img class="teacher-intro" style="width: 90%; height: 250px;" src="image\preschooler3.jpg" alt="teacher">
                     <p class="paragraph2">
                         Outdoor Games
                     </p>
